@@ -1,6 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "4S1pf42n0PQg4CuACs1Qux",
-    "mongoUrl": "mongodb+srv://Makc:123123123@cluster0-jqq21.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "mongoUrl": "your_mongoURL",
     "baseUrl": "http://localhost:5000"
 }
